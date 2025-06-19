@@ -1,2 +1,2 @@
 # payment_gateway_integration
-payment gateway integration 
+payment gateway integration (ecommpay)
