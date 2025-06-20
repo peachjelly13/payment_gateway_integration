@@ -3,6 +3,9 @@
     "body-parser": "^2.2.0",
     "dotenv": "^16.5.0",
     "ecommpay": "^0.1.7",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "express-rate-limit": "^7.5.0",
+    "helmet": "^8.1.0",
+    "joi": "^17.13.3"
   }
 }
