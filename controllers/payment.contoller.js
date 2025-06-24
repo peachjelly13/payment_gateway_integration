@@ -1,6 +1,6 @@
 const { Payment } = require('ecommpay');
 const Joi = require('joi');
-const paymentSchema = require('../validators/paymentSchema');
+const paymentSchema = require('../validators/validators.payment.js');
 
 const projectId = process.env.project_id;
 const secret_salt = process.env.secret_salt;
